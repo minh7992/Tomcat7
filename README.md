@@ -1,8 +1,17 @@
 #Cài đặt Web server sử dụng Tomcat 7 trên Ubuntu 14.04
+##Mục Lục
+[1. Giới thiệu](#Gioithieu)
+
+[2. Các bước cài đặt Apache Tomcat](#Cacbuoccaidat)
+
+[3. Một số cấu hình cơ bản trên Tomcat7](#Motsocauhinh)
+<a name="Gioithieu"></a>
 ##1.Giới thiệu Apache Tomcat
 Apache Tomcat là máy chủ web cho các ứng dụng Java được phát hành bởi Apache Software Foundation. Tomcat là một máy chủ web và cũng là một servlet container cho các ứng dụng web Java.
 
 Để có một webserver đầy đủ (tức là hỗ trợ cả JSP, PHP , CGI...) thì  cần kết hợp Apache và TOMCAT
+
+<a name="Cacbuoccaidat"></a>
 ##2.Các bước cài đặt Apache Tomcat
 Trong bài này chúng ta sẽ cài JDK, Apache Tomcat 7, để bắt đầu chúng ta sẽ cài đặt JDK. Apache Tomcat 7 yêu cầu tối thiểu là java 1.6
 
@@ -66,6 +75,7 @@ Có thể xem tài liệu trực tuyến của Tomcat qua đường dẫn:
 
 `http://your_ip_address:8080/docs/`
 
+<a name="Motsocauhinh"></a>
 ##3.Một số cấu hình cơ bản trên Tomcat 7
 Một số thông số cấu hình cơ bản ở trong file server.xml, ta mở file này:
 

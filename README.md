@@ -5,6 +5,9 @@
 [2. Các bước cài đặt Apache Tomcat](#Cacbuoccaidat)
 
 [3. Một số cấu hình cơ bản trên Tomcat7](#Motsocauhinh)
+
+[4. Hướng dẫn chạy Script cài đặt Apache Tomcat7] (https://github.com/minh7992/Tomcat7/blob/master/Huong%20dan.md)
+
 <a name="Gioithieu"></a>
 ##1.Giới thiệu Apache Tomcat
 Apache Tomcat là máy chủ web cho các ứng dụng Java được phát hành bởi Apache Software Foundation. Tomcat là một máy chủ web và cũng là một servlet container cho các ứng dụng web Java.
@@ -141,3 +144,5 @@ Ta được giao diện web như sau là thành công:
 
 <img src="http://i.imgur.com/FO7VQyk.png">
 </ul>
+
+[4. Hướng dẫn chạy Script cài đặt Apache Tomcat7] (https://github.com/minh7992/Tomcat7/blob/master/Huong%20dan.md)
